@@ -1,0 +1,49 @@
+html {
+  background-color: aliceblue;
+}
+
+
+h1 {
+  color: #fb6107;
+  font-family: 'Cormorant', serif;
+  text-align: center;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+
+#lista-principal{
+  font-family: 'Lora', serif;
+  text-align: center;
+  letter-spacing: 3px;
+  word-spacing: 20px;
+}
+
+#texto2{
+  color: #7cb518;
+  font-size: 20px;
+}
+
+#formulario{
+  text-align: center;
+  margin-top: 3em;
+}
+
+section {
+
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10em;
+    flex-wrap: wrap;
+    
+}
+
+footer {
+  text-align: center;
+  background-color: #fbb02d;
+  margin-top: 5em;
+}
